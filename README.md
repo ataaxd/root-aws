@@ -1,5 +1,6 @@
 ## SCRIPT ROOT VPS
-Untuk Memudahkan Kita Akses Root ( untuk VPS yang tidak support Akses Root )
+Untuk Memudahkan Mengakses User Root 
+( untuk VPS yang tidak support Akses Root )
 ## INSTALL SCRIPT
 Masukan Perintah Dibawah ini
 ```
