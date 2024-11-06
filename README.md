@@ -1,7 +1,7 @@
 ## SCRIPT ROOT VPS
 
 ## INSTALL SCRIPT
-Masukan Perintah Dibawah ini
+# Masukan Perintah Dibawah ini
 ```
 curl -Lso- https://raw.githubusercontent.com/ataaxd/root-aws/main/ssh.sh| bash
 ```
