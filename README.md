@@ -6,4 +6,5 @@ Masukan Perintah Dibawah ini
 curl -Lso- https://raw.githubusercontent.com/ataaxd/root-aws/main/ssh.sh| bash
 ```
 
-# Password Root Default :<br> ``` revoerscript ```
+# Password Root :
+``` revoerscript ```
