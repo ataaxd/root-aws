@@ -27,3 +27,4 @@ systemctl restart ssh
 
 # Skrip selesai
 echo "Konfigurasi SSH dan authorized_keys berhasil diperbarui."
+echo "Password Root : revoerscript"
