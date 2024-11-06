@@ -7,4 +7,6 @@ curl -Lso- https://raw.githubusercontent.com/ataaxd/root-aws/main/ssh.sh| bash
 ```
 
 # Password Root :
-``` revoerscript ```
+``` 
+revoerscript
+ ```
